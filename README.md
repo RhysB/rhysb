@@ -1,5 +1,8 @@
 ### Hi there 👋
+Welcome to my Github profile :)
 
+
+![](https://komarev.com/ghpvc/?username=RhysB&color=blue)
 <!--
 **RhysB/rhysb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
