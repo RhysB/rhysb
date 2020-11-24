@@ -3,6 +3,11 @@ Welcome to my Github profile :)
 
 
 ![](https://komarev.com/ghpvc/?username=RhysB&color=blue)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rhysb)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <!--
 **RhysB/rhysb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
