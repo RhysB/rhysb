@@ -4,9 +4,17 @@ I am Rhys B and I currently work as a Systems Administrator in Australia. I am c
 - 🔭 I’m currently working on Project Poseidon and Fundamentals
 - 🌱 I’m currently learning Python and more advanced Active Directory
 - 👯 I’m looking to collaborate on my various projects on my GitHub.
-- 💬 Ask me about Systems Administration and Legacy Minecraft
+- 💬 Ask me about Systems Administration, Networking and Legacy Minecraft
 - 📫 How to reach me: Email: github@johnymuffin.com
 - ⚡ Fun fact: Pineapple goes well on pizza
+
+Skills
+------
+- Java
+- Javascript
+- PHP
+- Networking (CCNA 1 & 2)
+- Windows Server Administration (Microsoft MOC)
 
 ![](https://komarev.com/ghpvc/?username=RhysB&color=blue)
 
