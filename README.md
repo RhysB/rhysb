@@ -18,5 +18,6 @@ Skills
 
 ![](https://komarev.com/ghpvc/?username=RhysB&color=blue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhysb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rhysb)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhysb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
